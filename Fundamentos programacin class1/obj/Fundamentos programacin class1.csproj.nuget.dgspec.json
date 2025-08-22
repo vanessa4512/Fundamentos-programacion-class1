@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\RiderProjects\\Fundamentos programacin class1\\Fundamentos programacin class1\\Fundamentos programacin class1.csproj": {}
+    "C:\\Users\\vanes\\RiderProjects\\Fundamentos-programacion\\Fundamentos programacin class1\\Fundamentos programacin class1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\RiderProjects\\Fundamentos programacin class1\\Fundamentos programacin class1\\Fundamentos programacin class1.csproj": {
+    "C:\\Users\\vanes\\RiderProjects\\Fundamentos-programacion\\Fundamentos programacin class1\\Fundamentos programacin class1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\RiderProjects\\Fundamentos programacin class1\\Fundamentos programacin class1\\Fundamentos programacin class1.csproj",
+        "projectUniqueName": "C:\\Users\\vanes\\RiderProjects\\Fundamentos-programacion\\Fundamentos programacin class1\\Fundamentos programacin class1.csproj",
         "projectName": "Fundamentos programacin class1",
-        "projectPath": "C:\\Users\\Alumno\\RiderProjects\\Fundamentos programacin class1\\Fundamentos programacin class1\\Fundamentos programacin class1.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\RiderProjects\\Fundamentos programacin class1\\Fundamentos programacin class1\\obj\\",
+        "projectPath": "C:\\Users\\vanes\\RiderProjects\\Fundamentos-programacion\\Fundamentos programacin class1\\Fundamentos programacin class1.csproj",
+        "packagesPath": "C:\\Users\\vanes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanes\\RiderProjects\\Fundamentos-programacion\\Fundamentos programacin class1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vanes\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Alumno\\.dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\vanes\\.dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
