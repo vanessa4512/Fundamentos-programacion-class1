@@ -1,4 +1,14 @@
-﻿void banderas () {
+﻿#region Actividades 
+
+//banderas();
+//intento1();
+//intento2();
+imprimiratrbutos1(); 
+
+#endregion
+
+#region resuelto
+void banderas () {
     Console.BackgroundColor = ConsoleColor.White;
     Console.ForegroundColor = ConsoleColor.Black;
     Console.Write("RU");
@@ -17,9 +27,10 @@
     Console.Write("U");
     Console.ResetColor();
 }
-string separador = "----------------------";
+
 
 void intento1(){
+    string separador = "----------------------";
     string nombre = "<Nombre del jugador>";
     int level = 15;
     float exp = 13;
@@ -34,6 +45,7 @@ void intento1(){
 
 
 void intento2(){
+    string separador = "----------------------";
     string nombrenew = "Nombre del jugador";
     int levelNew = 17;    
     long expNew = 8_439_581_839;
@@ -48,6 +60,7 @@ void intento2(){
 }
 
 void imprimiratrbutos1(){
+    string separador = "----------------------";
     string nombrenew = "Nombre del jugador";
     int levelNew = 17;    
     long expNew = 8_439_581_839;
@@ -66,3 +79,4 @@ void imprimiratrbutos1(){
     Console.WriteLine($"exp:\t{expNew}");
     Console.WriteLine(separador);
 }
+#endregion 

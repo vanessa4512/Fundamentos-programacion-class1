@@ -12,3 +12,18 @@ C:\Users\Alumno\RiderProjects\Fundamentos programacin class1\Fundamentos program
 C:\Users\Alumno\RiderProjects\Fundamentos programacin class1\Fundamentos programacin class1\obj\Debug\net9.0\Fundamentos programacin class1.pdb
 C:\Users\Alumno\RiderProjects\Fundamentos programacin class1\Fundamentos programacin class1\obj\Debug\net9.0\Fundamentos programacin class1.genruntimeconfig.cache
 C:\Users\Alumno\RiderProjects\Fundamentos programacin class1\Fundamentos programacin class1\obj\Debug\net9.0\ref\Fundamentos programacin class1.dll
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\bin\Debug\net9.0\Fundamentos programacin class1.exe
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\bin\Debug\net9.0\Fundamentos programacin class1.deps.json
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\bin\Debug\net9.0\Fundamentos programacin class1.runtimeconfig.json
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\bin\Debug\net9.0\Fundamentos programacin class1.dll
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\bin\Debug\net9.0\Fundamentos programacin class1.pdb
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\obj\Debug\net9.0\Fundamentos programacin class1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\obj\Debug\net9.0\Fundamentos programacin class1.AssemblyInfoInputs.cache
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\obj\Debug\net9.0\Fundamentos programacin class1.AssemblyInfo.cs
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\obj\Debug\net9.0\Fundamentos programacin class1.csproj.CoreCompileInputs.cache
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\obj\Debug\net9.0\Fundamentos programacin class1.sourcelink.json
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\obj\Debug\net9.0\Fundamentos programacin class1.dll
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\obj\Debug\net9.0\refint\Fundamentos programacin class1.dll
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\obj\Debug\net9.0\Fundamentos programacin class1.pdb
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\obj\Debug\net9.0\Fundamentos programacin class1.genruntimeconfig.cache
+C:\Users\vanes\RiderProjects\Fundamentos-programacion\Fundamentos programacin class1\obj\Debug\net9.0\ref\Fundamentos programacin class1.dll
